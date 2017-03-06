@@ -8,7 +8,7 @@
   <artifactId>parent</artifactId>
   <version>0.8-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>Simple Web Chapter Parent Project</name>
+  <name>Simple Web Chapter Parent Project12345</name>
   <modules>
     <module>simple-webapp</module>
   </modules>

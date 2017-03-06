@@ -9,8 +9,8 @@
   	<groupId>org.sonatype.mavenbook.simpleweb</groupId>
   	<version>0.8-SNAPSHOT</version>
   </parent>
-  <artifactId>simple-webapp</artifactId>
-  <packaging>war</packaging>
+  <artifactId>simplewebapp</artifactId>
+  <packaging>jar</packaging>
   <name>Simple Web Chapter Application Project</name>
   <dependencies>
     <dependency>
@@ -26,7 +26,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>simple-webapp</finalName>
+    <finalName>simplewebapp</finalName>
     <plugins>
       <plugin>
         <groupId>org.mortbay.jetty</groupId>
